@@ -1,0 +1,11 @@
+D:\visual studio\prodject\lab29\lab29\bin\Debug\lab29.exe.config
+D:\visual studio\prodject\lab29\lab29\bin\Debug\lab29.exe
+D:\visual studio\prodject\lab29\lab29\bin\Debug\lab29.pdb
+D:\visual studio\prodject\lab29\lab29\obj\Debug\lab29.csproj.AssemblyReference.cache
+D:\visual studio\prodject\lab29\lab29\obj\Debug\lab29.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\prodject\lab29\lab29\obj\Debug\lab29.Form1.resources
+D:\visual studio\prodject\lab29\lab29\obj\Debug\lab29.Properties.Resources.resources
+D:\visual studio\prodject\lab29\lab29\obj\Debug\lab29.csproj.GenerateResource.cache
+D:\visual studio\prodject\lab29\lab29\obj\Debug\lab29.csproj.CoreCompileInputs.cache
+D:\visual studio\prodject\lab29\lab29\obj\Debug\lab29.exe
+D:\visual studio\prodject\lab29\lab29\obj\Debug\lab29.pdb
